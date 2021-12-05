@@ -1,5 +1,5 @@
 # Max SaaS Playbook
-My personal list of resources and collected learnings (so far) on SaaS business operations.
+My personal list of resources and collected learnings (so far) on SaaS business operations (CxO).
 
 ## Contents
 
@@ -12,6 +12,24 @@ What I'll try to do in the near future.
 - [ ] Example OKRs on business areas for different stages
 - [ ] Explainer of partitioning of business areas used (play the 100%)
 - [ ] Contribution Guidelines
+- [ ] Resources on communication (know your audience, use cases vs. features)
+- [ ] Revenue based financing (funds, articles)
+- [ ] Learnings: Employee Equity Share Plan (Switzerland)
+- [ ] Learnings: VAT in international services
+- [ ] Learnings: Activating software and posting records (journal)
+- [ ] Learnings: Share purchase and posting records (journal)
+- [ ] Learnings: GDPR
+- [ ] Learnings: Company valuation (buckets, story, multiple, maturity)
+- [ ] Template: Guy kawasaki
+- [ ] Template: ToS, Purchase Order
+- [ ] Template: Support Services
+- [ ] Template: SLA
+- [ ] Template: Competition radar
+- [ ] Template: Content plan
+- [ ] Template: Job profile (internal)
+- [ ] Template: Liquidity Planning
+- [ ] Template: Sales & KPI reporting
+- [ ] Template: Shareholder strategy
 
 ## Disclaimer
 
