@@ -26,6 +26,7 @@
 ## Lead generation
 - [ARTICLE | 25 Lead Generation Strategies for SaaS Startups](https://kevintpayne.com/lead-generation-strategies-saas-startups/) - Overview on lead generation strategies; good starting point
 - [TOOL | Website Tracking](https://plausible.io/) - ⭐ Privacy-friendly alternative to Google Analytics
+- [BLOG | ProductHunt launch](https://www.reddit.com/r/new_product_launch/comments/rii7o2/spent_a_good_amount_of_money_on_the_product_hunt/) - Learnings from launching on product hunt
 
 ## Marketing communication
 - [ARTICLE | How to write customer success stories](https://coschedule.com/blog/customer-success-stories-template) - ⭐ Learn how to interview customers and write a sucess story for sales and marketing purposes
