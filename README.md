@@ -4,6 +4,7 @@ My personal list of resources and collected learnings (so far) on SaaS business 
 ## Contents
 
 - [Awesome SaaS resources](awesome-saas-resources.md)
+- [To-read-pile](to-read-pile.md)
 
 ## Roadmap
 
