@@ -102,3 +102,4 @@
 - [ARTICLE | Martin Fowler - Microservice testing](https://martinfowler.com/articles/microservice-testing/) - Testing strategy for microservices
 - [ARTICLE | Martin Fowler - Don't get locked up into avoiding lock-in](https://martinfowler.com/articles/oss-lockin.html) - Avoid lock-in
 - [COURSE | Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/) - Learn fundamentals of (Azure) cloud services
+- ARTICLE | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems, includes real world examples
