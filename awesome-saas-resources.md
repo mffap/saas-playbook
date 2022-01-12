@@ -13,6 +13,7 @@
 
 ## Social media
 - [DISCUSSION | Cringefest Linkedin](https://www.reddit.com/r/startups/comments/n0hs2l/linkedin_is_a_cringefest_but_it_works_for_b2b/) - Linkedin for B2B Sales
+- TOOL | [Brand24](https://brand24.com/) - Brand monitoring across channels and social media platforms
 
 ## Content marketing
 - [ARTICLE | Content Plan](https://www.chimpify.de/marketing/content-plan/) - Creating a content plan
@@ -27,7 +28,9 @@
 
 ## Lead generation
 - [ARTICLE | 25 Lead Generation Strategies for SaaS Startups](https://kevintpayne.com/lead-generation-strategies-saas-startups/) - Overview on lead generation strategies; good starting point
-- [TOOL | Website Tracking](https://plausible.io/) - ⭐ Privacy-friendly alternative to Google Analytics
+- [TOOL | Plausible](https://plausible.io/) - ⭐ Web tracking, Privacy-friendly alternative to Google Analytics
+- TOOL | [Kissmetrics](https://www.kissmetrics.io/) - Web tracking alternative to Google Analytics
+- TOOL | [Geckoboard](https://www.geckoboard.com/) - KPI dashboards with many integrations (untested)
 - [BLOG | ProductHunt launch](https://www.reddit.com/r/new_product_launch/comments/rii7o2/spent_a_good_amount_of_money_on_the_product_hunt/) - Learnings from launching on product hunt
 
 ## Marketing communication
