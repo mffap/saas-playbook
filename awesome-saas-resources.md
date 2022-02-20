@@ -23,6 +23,7 @@
 ## Community building
 - [ARTICLE | 3 Tips For Making a Popular Open Source Project in 2021](https://skerritt.blog/make-popular-open-source-projects/) - Guide to create popular open source projects
 - [WEBSITE | Open Source Guide ](https://opensource.guide/) - Community guides for open source creators
+- WEBSITE | [Hackathon Guide](https://hackathon.guide/) - An open hackathon guide and checklist
 - WEBSITE | [r/new_product_launch](https://www.reddit.com/r/new_product_launch/) - subreddit dedicated to improving your go-to market strategy, finding a product-market fit and choosing the best acquisition channels opportunities for your niche
 - WEBSITE | [r/startups](https://www.reddit.com/r/startups/) - the place to discuss startup problems and solutions.
 
